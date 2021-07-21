@@ -9,7 +9,7 @@ You __CANNOT__ open Github Desktop.
 1. What is a benefit of using the Git CLI rather than a GUI?
 
 <!-- Write your answer here -->
-Using ClI is ease, you can do multitasking... if you are working with server, you can not use GUI
+Using CLI is easy, you can do multitasking... if you are working with a server, you can not use GUI
 
 2. What is the Git command to send your code to Github?
 
@@ -19,7 +19,7 @@ git push **fileName**
 3. What does the -m in a Git commit command mean or do?
 
 <!-- Write your answer here -->
-You can add messege to your commit
+You can add a message to your commit
 
 4. What is the Git command for making a commit?
 
